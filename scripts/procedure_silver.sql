@@ -254,3 +254,9 @@ FROM bronze.crm_prd_info;
 		PRINT '=========================================='
 	END CATCH
 END
+
+=====================================================
+TO EXECUTE THE STORED PROCEDURE ,RUN THE BELOW LINE
+=====================================================
+
+EXECUTE Silver.load_silver
